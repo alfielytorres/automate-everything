@@ -4,7 +4,7 @@ A compilation of scripts that I use to automate my life
 ### word_analysis
 - Find the occurence of a word in a key value pair. Saved in a CSV format 
 
-<img src="https://i.imgur.com/L7kefiu.gif" width="800">
+<img src="https://i.imgur.com/A3KCNFH.gif" width="800">
 
 
 ### sort-by-year-month.py 
