@@ -6,3 +6,7 @@ A compilation of scripts that I use to automate my life
 
 <img src="https://i.imgur.com/YS6aNBP.gif" width="1000">
 
+### word_analysis
+- Find the occurence of a word in a key value pair. Saved in a CSV format 
+
+<img src="https://i.imgur.com/dup52Ms.gif" width="1000">
