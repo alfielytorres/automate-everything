@@ -5,7 +5,7 @@ A compilation of scripts that I use to automate my life
 - Perform an analysis on tweets on twitter to check its positive or negative. 
 - Contains three files (positive_words.txt, negative_words.txt, project_twitter_data.csv)
 
-<img src="https://imgur.com/a/MYx21F0.gif" width="800">
+<img src="https://i.imgur.com/0byadFY.gif" width="800">
 
 ### word_analysis
 - Find the occurence of a word in a key value pair. Saved in a CSV format 
