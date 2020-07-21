@@ -5,7 +5,7 @@ A compilation of scripts that I use to automate my life
 - Gets the data from https://api.covid19api.com/summary and generates the a csv file that you can work with in Excel
 - Includes mortality rate
 
-<img src="" width="800">
+<img src="https://i.imgur.com/acF5J1e.gif" width="800">
 
 
 ### sentimental_analysis
