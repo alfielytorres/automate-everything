@@ -37,6 +37,7 @@ def get_country_summary(country):
     new_death=summary_data['NewDeaths']
     total_death=summary_data['TotalDeaths']
     mort_rate=get_mortality_rate(country)
+    country = country.replace(',','')
     return "{}, {}, {}, {}, {}, {}, {}, {}".format(country, new_recovered,total_recovered,new_confirmed,total_confirmed,new_death,total_death,mort_rate) 
 
 def create_country_data():
@@ -46,7 +47,7 @@ def create_country_data():
 
 
 
-file.write("Country, New Positive Case, Total Recovered, New Confirmed, Total confirmed, New Death, Total Death, Mortality Rate")
+file.write("country, new_recovered, total_recovered, new_confirmed, total_confirmed, new_death, total_death, mort_rate")
 file.write('\n')
 create_country_data()
 
