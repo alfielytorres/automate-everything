@@ -1,6 +1,13 @@
 # automate-everything
 A compilation of scripts that I use to automate my life
 
+### covid_csv_generator
+- Gets the data from https://api.covid19api.com/summary and generates the a csv file that you can work with in Excel
+- Includes mortality rate
+
+<img src="" width="800">
+
+
 ### sentimental_analysis
 - Perform an analysis on tweets on twitter to check its positive or negative. 
 - Contains three files (positive_words.txt, negative_words.txt, project_twitter_data.csv)
